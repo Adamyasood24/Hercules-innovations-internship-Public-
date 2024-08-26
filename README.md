@@ -1,1 +1,1 @@
-# This repo contains my work on "createaigenie" that can be publically disclosed 
+# This repo contains some of my work on  that can be publically disclosed 
